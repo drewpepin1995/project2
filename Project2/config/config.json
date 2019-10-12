@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": null,
-    "database": "exampledb",
+    "password": "hockey930",
+    "database": "sports.db",
     "host": "localhost",
     "dialect": "mysql"
   },
